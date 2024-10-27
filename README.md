@@ -94,4 +94,4 @@ You are now ready to use `docstring_helper.py` to automate docstring creation in
 ## Requirements
 
 - Python 3.x
-- `os` and `re` libraries (standard libraries)
+- `os`, `re`, `sys` libraries (standard libraries)
